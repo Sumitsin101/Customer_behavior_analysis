@@ -19,7 +19,7 @@ The goal of this project is to showcase practical data analysis skills, data cle
 * Data was initially explored and cleaned using Python.
 * Cleaned data was then loaded into a relational database for SQL analysis.
 
-*(Dataset source can be added here if applicable)*
+
 
 ---
 
@@ -32,7 +32,7 @@ The goal of this project is to showcase practical data analysis skills, data cle
   * PostgreSQL / MySQL / SQL Server
 * **Power BI** – Interactive dashboard and data visualization
 * **Gamma** – Presentation (PPT) creation
-* **Excel (optional)** – Quick validation and review
+
 
 ---
 
@@ -92,7 +92,7 @@ The goal of this project is to showcase practical data analysis skills, data cle
 * Category and segment comparisons
 * Interactive filters for deeper analysis
 
-*(Screenshots or dashboard link can be added here)*
+
 
 ---
 
@@ -108,10 +108,6 @@ The goal of this project is to showcase practical data analysis skills, data cle
 
 1. Clone this repository
 2. Install required Python libraries:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
 3. Run the Python notebook/script for EDA and data cleaning
 4. Load the cleaned data into PostgreSQL / MySQL / SQL Server
 5. Execute SQL queries provided in the SQL folder
